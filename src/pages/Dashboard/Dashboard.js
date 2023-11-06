@@ -1,10 +1,10 @@
 import React from "react";
 import withRouter from "../../Components/Common/withRouter";
-
+import Layout from "../../Layouts/index";
 const Dashboard = (props) => {
   return (
     <React.Fragment>
-      <h2>Dashboard Page</h2>
+       <Layout></Layout>
     </React.Fragment>
   );
 };
