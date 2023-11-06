@@ -1,0 +1,269 @@
+.authentication {
+    background-color: #f3f3f9;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+
+.authentication .overlap-wrapper {
+    background-color: #f3f3f9;
+    height: 100%;
+    width: 100%;
+}
+
+.authentication .overlap {
+    height: 70%;
+    left: 10%;
+    position: absolute;
+    top: 15%;
+    width: 80%;
+}
+
+.authentication .image-part {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 50%;
+}
+
+.authentication .overlap-group {
+    height: 100%;
+    position: relative;
+    width: 100%;
+}
+
+.authentication .image {
+    background-image: url("../../images/auth-one-bg.jpg");
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.authentication .overlay {
+    background: linear-gradient(180deg, rgba(0, 79, 145, 0.9) 0%, rgba(54.35, 101.15, 140.25, 0.9) 100%);
+    border-radius: 4px 0px 0px 4px;
+    height: 100%;
+    width: 100%;
+}
+
+.authentication .great-clean-code {
+    color: #ffffff7f;
+    font-family: "Poppins-BoldItalic", Helvetica;
+    font-size: 21px;
+    font-style: italic;
+    font-weight: 700;
+    left: 15%;
+    letter-spacing: -0.4px;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 70%;
+    width: 70%;
+}
+
+.authentication .form {
+    height: 100%;
+    left: 50%;
+    position: absolute;
+    top: 0;
+    width: 50%;
+}
+
+.authentication .div {
+    background-color: #ffffff;
+    border-radius: 4px;
+    box-shadow: 0px 1px 2px #38414a26;
+    height: 100%;
+    position: absolute;
+    width: 100%;
+}
+
+.authentication .overlap-2 {
+    height: 4.92%;
+    left: 3.49%;
+    position: absolute;
+    top: 8%;
+    width: 95%;
+}
+
+.authentication .text-wrapper {
+    color: #405189;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0.2px;
+    line-height: normal;
+    top: 0;
+    width: 100%;
+}
+
+.authentication .sign-in-to-continue {
+    color: #878a99;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 100%;
+}
+
+.authentication .overlap-3 {
+    height: 18%;
+    left: 3.39%;
+    position: absolute;
+    top: 17%;
+    width: 100%;
+}
+
+.authentication .username {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 95%;
+}
+
+.authentication .label {
+    color: #212529;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 13px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 30%;
+    width: 100%;
+}
+
+.authentication .input {
+    height: 50.62%;
+    left: 0;
+    position: absolute;
+    top: 75%;
+    width: 95%;
+}
+
+.authentication .input-field {
+    background: none;
+    border: 1px solid;
+    border-color: #ced4da;
+    border-radius: 33px;
+    color: #878a99;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 13px;
+    font-weight: 400;
+    height: 100%;
+    letter-spacing: 0;
+    line-height: normal;
+    padding: 0;
+    padding-left: 3.22%;
+    position: relative;
+    width: 100%;
+}
+
+.authentication .error-input {
+    border: 1px solid red;
+}
+
+.authentication .error-placeholder::placeholder {
+    color: red;
+}
+
+.authentication .error-message {
+    color: red;
+    padding-left: 2%;
+    top: 10%;
+    position: relative;
+    font-weight: 500;
+    font-size: smaller;
+}
+
+.authentication .password {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 150%;
+    width: 95%;
+}
+
+.authentication .text-wrapper-2 {
+    color: #212529;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 13px;
+    font-weight: 500;
+    left: 1px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    height: 100%;
+    top: 3%;
+    width: 100%;
+}
+
+.authentication .eye {
+    color: #878a99;
+    height: 10%;
+    cursor: pointer;
+    left: 95%;
+    top: 20%;
+    position: absolute;
+    width: 1.8%;
+}
+
+
+.authentication .sign-in-button {
+    left: 5%;
+    position: absolute;
+    top: 85%;
+    width: 95%;
+}
+
+
+.authentication .overlap-4 {
+    background-color: #008c7a;
+    border-radius: 4px;
+    position: relative;
+    cursor: pointer;
+    width: 95%;
+}
+
+.authentication .text-wrapper-5 {
+    color: #ffffff;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 13px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+}
+
+
+.authentication .logo-of-the {
+    background-image: url("../../images/IOUE_logo.png");
+    background-size: 100% 100%;
+    height: 50%;
+    left: 15%;
+    position: absolute;
+    top: 10%;
+    width: 20%;
+}
+
+.auth-one-bg {
+    background-image: url("../../images/auth-one-bg.jpg");
+    background-position: center;
+    background-size: cover;
+
+    .bg-overlay {
+        background: linear-gradient(to right, darken($primary, 6%), $primary);
+        opacity: 0.9;
+    }
+}
